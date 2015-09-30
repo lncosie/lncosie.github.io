@@ -3,13 +3,12 @@ layout: page
 title: About
 ---
 
----爱生活、爱分享、想做一个属于自己的APP
+---Just my notebook
 
 
-Blog: [http://Frank-Zhu.github.io](http://Frank-Zhu.github.io)
+Blog: [http://lncosie.github.io](http://lncosie.github.io)
 
-Github: [https://github.com/Frank-Zhu](https://github.com/Frank-Zhu)
+Github: [https://github.com/lncosie](https://github.com/lncosie)
 
-Email: zhuwenwu2008@gmail.com
+Email: lncosie@gmail.com
 
-QQ: 812356085
