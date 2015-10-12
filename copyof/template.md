@@ -1,1 +1,0 @@
-template of article
